@@ -3,7 +3,6 @@ import React, {useState, useEffect} from 'react'
 import axios from 'axios'
 import TypingAnimation from '../components/TypingAnimation'
 import {RiRobot2Line} from 'react-icons/ri'
-// import 'dotenv/config'
 
 const RecommendedQuestions = ({onQuestionClick}) => {
   const recommendedQuestions = ['What is your service?', 'How can I contact support?', 'Tell me about your pricing']
