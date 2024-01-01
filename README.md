@@ -1,9 +1,9 @@
-# Portfolio Website
+# STUDY CASE TELKOM
 
 ![Portfolio Website Screenshot](client/public/bg.jpg)
 
 ## Description
-
+### Code reference (https://github.com/judygab/chatgpt-api-react)
 This repository contains the codebase for my personal portfolio website, built using Next.js, Tailwind CSS, and Framer Motion. The website aims to showcase my projects, works, and experiences across various domains. With an appealing layout and smooth animations, the website is designed to provide an engaging experience for visitors.
 
 ## Key Features
