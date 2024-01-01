@@ -1,6 +1,8 @@
 # STUDY CASE TELKOM
 
 ![Portfolio Website Screenshot](client/public/bg.jpg)
+![Portfolio Website Screenshot](client/public/video.mp4)
+
 
 ## Description
 ### Code reference [https://github.com/judygab/chatgpt-api-react](https://github.com/judygab/chatgpt-api-react).
