@@ -1,7 +1,11 @@
 # STUDY CASE TELKOM
 
 ![Portfolio Website Screenshot](client/public/bg.jpg)
-![Portfolio Website Screenshot](client/public/video.mp4)
+
+
+
+
+https://github.com/yaqinzz/study-case-telkom/assets/95087741/8c8276b2-4449-4967-8c32-7a78f71f381a
 
 
 ## Description
