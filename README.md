@@ -1,6 +1,6 @@
 # Portfolio Website
 
-![Portfolio Website Screenshot](public/screenshot.png)
+![Portfolio Website Screenshot](public/bg.png)
 
 ## Description
 
